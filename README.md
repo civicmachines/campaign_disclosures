@@ -2,8 +2,8 @@
 
 Code and Dataset to replicate the findings of the study: 
 
-Orestis Papakyriakopoulos, Christelle Tessono, Arvind Narayanan, and Mi-
-hir Kshirsagar. 2022. How Algorithms Shape the Distribution of Political
+Orestis Papakyriakopoulos, Christelle Tessono, Arvind Narayanan, and Mihir Kshirsagar. 2022.
+How Algorithms Shape the Distribution of Political
 Advertising: Case Studies of Facebook, Google, and TikTok. In Proceedings
 of the 2022 AAAI/ACM Conference on AI, Ethics, and Society (AIES’22), August
 1–3, 2022, Oxford, United Kingdom. ACM, New York, NY, USA, 15 pages.
