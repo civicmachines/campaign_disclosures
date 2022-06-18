@@ -1,0 +1,16 @@
+platform,party,min_impressions,max_impressions
+google,Democratic,190760000,2083650000
+google,Republican,610430000,6176570000
+google,nonpartisan,73800000,797840000
+google,Biden,25580000,349990000
+google,Trump,362820000,3661210000
+youtube,Democratic,1955540000,19833480000
+youtube,Republican,1378030000,13867640000
+youtube,nonpartisan,165060000,1653490000
+youtube,Biden,85555000,8739610000
+youtube,Trump,424030000,4310430000
+facebook,Democratic,9308628000,24993381671
+facebook,Republican,5884207000,17455875955
+facebook,nonpartisan,5429664000,21757707163
+facebook,Biden,1650446000,4235171263
+facebook,Trump,908704000,2047595837
