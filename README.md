@@ -1,4 +1,4 @@
-# campaign_disclosures
+#  How Algorithms Shape the Distribution of Political Advertising: Case Studies of Facebook, Google, and TikTok.
 
 Code and Dataset to replicate the findings of the study: 
 
